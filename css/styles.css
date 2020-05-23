@@ -46,7 +46,7 @@ table{
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   align-content: center;
-  margin-left: 200px;
+
 
   }
 .contact:hover{
@@ -57,4 +57,14 @@ table{
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+.contact-container{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.outer {
+  
+  width:100%;
 }
